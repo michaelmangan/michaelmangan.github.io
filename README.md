@@ -6,31 +6,31 @@ Bio:
 
 I received an undergraduate MEng in Avionics from the University of Glasgow in 2004, that included a final year placement at The Norwegian University of Science and Technology, Trondheim, Norway.  I then moved academic fields by completing an MSc in Neuroinformatics (2006) and PhD in biorobotics (2011) at the University of Edinburgh.  I remained in Edinburgh for 4 further years as post-doc and research fellow on BBSRC and EPSRC grants.  In April, 2016 I took up a Senior Lecturer position at the Dept of Computer Science, University of Lincoln and joined the Lincoln Centre for Autonomous Systems research team.  Two years later, in April, 2018 I joined the Dept of Computer Science at the University of Sheffield as a Lecturer in Machine Learning and Robotics and also became a member of Sheffield Robotics.   
 
-### Markdown
+<!-- ### Markdown -->
 
-test comment <!-- and -->
+<!-- test comment <!-- and -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
 
-```markdown
-Syntax highlighted code block
+<!-- ```markdown -->
+<!-- Syntax highlighted code block -->
 
-# Header 1
-## Header 2
-### Header 3
+<!-- # Header 1 -->
+<!-- ## Header 2 -->
+<!-- ### Header 3 -->
 
-- Bulleted
-- List
+<!-- - Bulleted -->
+<!-- - List -->
 
-1. Numbered
-2. List
+<!-- 1. Numbered -->
+<!-- 2. List -->
 
-**Bold** and _Italic_ and `Code` text
+<!-- **Bold** and _Italic_ and `Code` text -->
 
-[Link](url) and ![Image](src)
-```
+<!-- [Link](url) and ![Image](src) -->
+<!-- ``` -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 ### Jekyll Themes
 
