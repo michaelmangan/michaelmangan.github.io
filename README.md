@@ -1,40 +1,71 @@
 ## Michael Mangan's Webpage
 
-I am a lecturer in the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and also a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research projects are focussed on revealing how insights use vision to solve problems that we face in engineering such as navigation, and object detection, identification, and tracking. Revealing how insects achieve these feats is of scientific  interest in itself but also has application areas in areas from robot navigation, to smart agriculture.  Our [organisation page](https://github.com/ManganLab/manganlab.github.io) has a list of my research projects and group members.
+Skip to content
+ 
+Search or jump to…
 
-Bio:
+Pull requests
+Issues
+Marketplace
+Explore
+ @michaelmangan Sign out
+1
+0 0 ManganLab/manganlab.github.io 
+ Code
+ Issues 0
+ Pull requests 0
+ ZenHub
+ Projects 0
+ Wiki
+ Insights
+ Settings
+Set theme jekyll-theme-cayman
 
-I received an undergraduate MEng in Avionics from the University of Glasgow in 2004, that included a final year placement at The Norwegian University of Science and Technology, Trondheim, Norway.  I then moved academic fields by completing an MSc in Neuroinformatics (2006) and PhD in biorobotics (2011) at the University of Edinburgh.  I remained in Edinburgh for 4 further years as post-doc and research fellow on BBSRC and EPSRC grants.  In April, 2016 I took up a Senior Lecturer position at the Dept of Computer Science, University of Lincoln and joined the Lincoln Centre for Autonomous Systems research team.  Two years later, in April, 2018 I joined the Dept of Computer Science at the University of Sheffield as a Lecturer in Machine Learning and Robotics and also became a member of Sheffield Robotics.   
+ master
+@Blayzeing
+Blayzeing committed 3 hours ago
+1 parent e857dce commit 105e70ab39961dc8ca867e018deb6ece9ad56f53
+Showing  with 38 additions and 2 deletions.
+   
+39  README.md
+@@ -1,2 +1,37 @@
+# manganlab.github.io
+The lab's github pages website.
+## Welcome to GitHub Pages
 
-<!-- ### Markdown -->
+You can use the [editor on GitHub](https://github.com/ManganLab/manganlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<!-- test comment <!-- and -->
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
+### Markdown
 
-<!-- ```markdown -->
-<!-- Syntax highlighted code block -->
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<!-- # Header 1 -->
-<!-- ## Header 2 -->
-<!-- ### Header 3 -->
+```markdown
+Syntax highlighted code block
 
-<!-- - Bulleted -->
-<!-- - List -->
+# Header 1
+## Header 2
+### Header 3
 
-<!-- 1. Numbered -->
-<!-- 2. List -->
+- Bulleted
+- List
 
-<!-- **Bold** and _Italic_ and `Code` text -->
+1. Numbered
+2. List
 
-<!-- [Link](url) and ![Image](src) -->
-<!-- ``` -->
+**Bold** and _Italic_ and `Code` text
 
-<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+[Link](url) and ![Image](src)
+```
 
-<!-- ### Jekyll Themes -->
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michaelmangan/michaelmangan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
-<!-- ### Support or Contact -->
+### Jekyll Themes
 
-<!-- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManganLab/manganlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
