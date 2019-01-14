@@ -1,36 +1,3 @@
-## Michael Mangan's Webpage
-
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @michaelmangan Sign out
-1
-0 0 ManganLab/manganlab.github.io 
- Code
- Issues 0
- Pull requests 0
- ZenHub
- Projects 0
- Wiki
- Insights
- Settings
-Set theme jekyll-theme-cayman
-
- master
-@Blayzeing
-Blayzeing committed 3 hours ago
-1 parent e857dce commit 105e70ab39961dc8ca867e018deb6ece9ad56f53
-Showing  with 38 additions and 2 deletions.
-   
-39  README.md
-@@ -1,2 +1,37 @@
-# manganlab.github.io
-The lab's github pages website.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ManganLab/manganlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
