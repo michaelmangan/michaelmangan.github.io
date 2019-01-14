@@ -1,6 +1,6 @@
 ## Michael Mangan's Webpage
 
-I am a lecturer in the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the University of Sheffield, UK.  My research largely focusses on learning how insights use their visual sensing to solve problems that we face in engineering  such as navigation, and object detection, identification, and tracking. A list of projects and members of my group can be found at our organisation page -> 
+I am a lecturer in the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and also a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research projects are focussed on revealing how insights use vision to solve problems that we face in engineering such as navigation, and object detection, identification, and tracking. Revealing how insects achieve these feats is of scientific  interest in itself but also has application areas in areas from robot navigation, to smart agriculture.  Our [organisation page](https://github.com/ManganLab/manganlab.github.io) has a list of my research projects and group members.
 
 Bio:
 
@@ -8,7 +8,7 @@ I received an undergraduate MEng in Avionics from the University of Glasgow in 2
 
 ### Markdown
 
-test comment <!--- and --->
+test comment <!-- and -->
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
