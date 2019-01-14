@@ -1,6 +1,6 @@
 ## Michael Mangan's Webpage
 
-I am a lecturer in the Dept. of Computer Science at the University of Sheffield, UK.  My research largely focusses on learning how insights use their visual sensing to solve problems that we face in engineering  such as navigation, and object detection, identification, and tracking. A list of projects and members of my group can be found at our organisation page -> 
+I am a lecturer in the [Link](https://www.sheffield.ac.uk/dcs) Dept. of Computer Science at the University of Sheffield, UK.  My research largely focusses on learning how insights use their visual sensing to solve problems that we face in engineering  such as navigation, and object detection, identification, and tracking. A list of projects and members of my group can be found at our organisation page -> 
 
 Bio:
 
