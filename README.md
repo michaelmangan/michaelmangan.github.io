@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/michaelmangan/michaelmangan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Research Interests:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research largely focusses on learning how insights use their visual sensing to solve problems that we face in engineering  such as navigation, and object detection, identification, and tracking.   
+
+Bio:
+
+I received an undergraduate MEng in Avionics from the University of Glasgow in 2004, that included a final year placement at The Norwegian University of Science and Technology, Trondheim, Norway.  I then moved academic fields by completing an MSc in Neuroinformatics (2006) and PhD in biorobotics (2011) at the University of Edinburgh.  I remained in Edinburgh for 4 further years as post-doc and research fellow on BBSRC and EPSRC grants.  In April, 2016 I took up a Senior Lecturer position at the Dept of Computer Science, University of Lincoln and joined the Lincoln Centre for Autonomous Systems research team.  Two years later, in April, 2018 I joined the Dept of Computer Science at the University of Sheffield as a Lecturer in Machine Learning and Robotics and also became a member of Sheffield Robotics.   
 
 ### Markdown
 
