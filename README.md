@@ -1,54 +1,16 @@
 ###  Background
 
-I am a lecturer in the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and also a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research projects are focussed on revealing how insights use vision to solve problems that we face in engineering such as navigation, and object detection, identification, and tracking. Revealing how insects achieve these feats is of scientific  interest in itself but also has application areas in areas from robot navigation, to smart agriculture.  Our [organisation page](https://github.com/ManganLab/manganlab.github.io) has a list of my research projects and group members.
+I am a lecturer in Machine Learning and Robotics at the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research projects are focussed on revealing how insects use vision to solve complex problems such as navigation, and object detection, classification and tracking. Revealing how insects achieve these feats is of merits scientific investigation in itself but also has applications in domains such as autonmous navigation and smart agriculture.  Our [organisation page](https://github.com/ManganLab/manganlab.github.io) details the lab's research projects and group members.
 
 ###  Biography
 
-I received an undergraduate MEng in Avionics from the University of Glasgow in 2004, that included a final year placement at The Norwegian University of Science and Technology, Trondheim, Norway.  I then moved academic fields by completing an MSc in Neuroinformatics (2006) and PhD in biorobotics (2011) at the University of Edinburgh.  I remained in Edinburgh for 4 further years as post-doc and research fellow on BBSRC and EPSRC grants.  In April, 2016 I took up a Senior Lecturer position at the Dept of Computer Science, University of Lincoln and joined the Lincoln Centre for Autonomous Systems research team.  Two years later, in April, 2018 I joined the Dept of Computer Science at the University of Sheffield as a Lecturer in Machine Learning and Robotics and also became a member of Sheffield Robotics.   
+I received an undergraduate MEng in Avionics from the [University of Glasgow](https://www.gla.ac.uk/) in 2004, during which I completed a final year placement at [The Norwegian University of Science and Technology, Trondheim, Norway](https://www.ntnu.edu/) .  I then moved location and academic fields by completing an MSc in Neuroinformatics (2006) and PhD in Biorobotics (2011) at the [University of Edinburgh](https://www.ed.ac.uk/home) under the supervision of Prof Barbara Webb.  I remained in Edinburgh for 4 further years as post-doc and research fellow on BBSRC and EPSRC grants.  In 2016 I took up a senior lecturer position at the [Dept of Computer Science, University of Lincoln](https://www.lincoln.ac.uk/home/socs/)  and joined the [Lincoln Centre for Autonomous Systems](https://lcas.lincoln.ac.uk/wp/category/lcas/) .  Two years later, I joined the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/) where I am currently leading a research group in insect biorobotics.   
 
 ###  Office
 
 F40 Pam Liversidge Building, Mappin St, Sheffield S1 3JD.
 
-###  Publications 
-
-###  Teaching
 
 
 
-You can use the [editor on GitHub](https://github.com/ManganLab/manganlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](michaelmangan.github.io/MMangan1 (1).jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManganLab/manganlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
   
