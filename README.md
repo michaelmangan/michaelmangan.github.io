@@ -13,7 +13,9 @@ F40 Pam Liversidge Building, Mappin St, Sheffield S1 3JD.
 ###  Links
 
 [Publication Page](https://scholar.google.co.uk/citations?user=VeeNOGgAAAAJ&hl=en) 
+
 [University of Sheffield Page](https://www.sheffield.ac.uk/dcs/people/academic/mmangan/profile) 
+
 [RoboAnt Blog](https://blog.inf.ed.ac.uk/insectrobotics/roboant/) 
 
 
