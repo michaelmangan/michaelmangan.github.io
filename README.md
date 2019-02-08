@@ -1,6 +1,6 @@
 ###  Background
 
-I am a lecturer in Machine Learning and Robotics at the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research focusses on revealing how insects use vision to solve complex problems such as navigation, and object detection, classification and tracking. Revealing how insects achieve these feats merits scientific investigation in itself but also has applications in domains such as autonmous navigation and smart agriculture.  Our [organisation page](https://github.com/ManganLab/manganlab.github.io) details the lab's research projects and group members.
+I am a lecturer in Machine Learning and Robotics at the [Dept. of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of Sheffield](https://www.sheffield.ac.uk/), UK, and a member of [Sheffield Robotics](https://www.sheffieldrobotics.ac.uk/).  My current research focusses on revealing how insects use vision to solve complex problems such as navigation, and object detection, classification and tracking. Revealing how insects achieve these feats merits scientific investigation in itself but also has applications in domains such as autonmous navigation and smart agriculture.  Our [organisation page](https://manganlab.github.io) details the lab's research projects and group members.
 
 ###  Biography
 
